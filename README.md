@@ -89,8 +89,8 @@ To be decided and added soon.
 
 ---
 
-## 📸 Demo Banner (Optional)
+## 📸 Demo Banner
 
-![Tech Nest Banner](https://yourdomain.com/banner.gif)
+![Tech Nest Banner] <img src="assets/image/banner.jpg" width="48%" />
 
 For detailed page documentation, check out the [Wiki](https://github.com/brijpatel88/July4_Assignment_3/wiki).
