@@ -91,6 +91,6 @@ To be decided and added soon.
 
 ## 📸 Demo Banner
 
-![Tech Nest Banner] <img src="assets/image/banner.jpg" width="48%" />
+ <img src="assets/image/banner.jpg" width="48%" />
 
 For detailed page documentation, check out the [Wiki](https://github.com/brijpatel88/July4_Assignment_3/wiki).
